@@ -1,2 +1,2 @@
 # hellow_world
-learning GitHub
+Londani Artwell Zuma is learning how to use GitHub for the first time
